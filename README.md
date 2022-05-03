@@ -23,7 +23,7 @@
 </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjimreza&show_icons=true&locale=en&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" /> &nbsp &nbsp <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjimreza&show_icons=true&locale=en&layout=compact&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" />&nbsp&nbsp&nbsp</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjimreza&show_icons=true&locale=en&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" /> &nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjimreza&show_icons=true&locale=en&layout=compact&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" />&nbsp&nbsp&nbsp</p>
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanjimreza&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="tanjimreza" /></p>
 
