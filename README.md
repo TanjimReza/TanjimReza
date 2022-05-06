@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tanjim Reza</h1>
-<h3 align="center">Undergraduate Computer Science & Engineering Student.</h3>
+<h2 align="center">Hi 👋, I'm Tanjim Reza</h2>
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?color=2CD1F7&lines=Undergraduate+CSE+Student;Bot+Developer;Exploring+Python%2C+Django+%26+More"></a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjimreza&label=Profile%20views&color=0e75b6&style=flat" alt="tanjimreza" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanjimreza&theme=nord&row=2&column=4&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/tanjimreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjimreza" height="30" width="40" /></a>
