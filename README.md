@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Tanjim Reza</h2>
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=2CD1F7&lines=Undergraduate+CSE+Student;Bot+Developer;Exploring+Python%2C+Django+%26+More"></a>
+  <img src="http://readme-typing-svg.herokuapp.com?color=2CD1F7&lines=CS%20Graduate;Python+Developer;Django,Flask%20and%20More"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjimreza&label=Profile%20views&color=0e75b6&style=flat" alt="tanjimreza" /> </p>
 <h3 align="left">Connect with me:</h3>
