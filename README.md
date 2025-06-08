@@ -1,28 +1,115 @@
-<h2 align="center">Hi 👋, I'm Tanjim Reza</h2>
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=2CD1F7&lines=CS%20Graduate;Python+Developer;Django,Flask%20and%20More"></a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanjimreza&label=Profile%20views&color=0e75b6&style=flat" alt="tanjimreza" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tanjimreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanjimreza" height="30" width="40" /></a>
-<a href="https://twitter.com/tanjimbhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanjimbhai" height="30" width="40" /></a>  
- <a href="https://linkedin.com/in/tanjimreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanjimreza" height="30" width="40" /></a>
+<div align="center">
+  
+# 👋 Hi, I'm Tanjim Reza
 
+### CS Graduate | Python Developer | Full-Stack Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blan.k" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg" alt="django" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-</a> 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=CS+Graduate;Python+Developer;Django+%26+Flask+Expert;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjimreza&show_icons=true&locale=en&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" /> &nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjimreza&show_icons=true&locale=en&layout=compact&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="tanjimreza" />&nbsp&nbsp&nbsp</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tanjimreza&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tanjimreza?style=for-the-badge&color=blue" alt="GitHub followers" />
+</p>
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanjimreza&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="tanjimreza" /></p>
+</div>
 
-<p align="center"> <a href=""><img src="https://activity-graph.herokuapp.com/graph?username=tanjimreza&theme=github" alt="tanjimreza" /></a> </p>
+---
+
+### 🚀 About Me
+
+- 🎓 **Computer Science Graduate** with a passion for software development
+- 💻 **Python Developer** specializing in web development and automation
+- 🌱 Currently learning **Advanced Django**, **React**, and **DevOps**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, Django, Flask, Web Development**
+- ⚡ Fun fact: **I love solving complex problems with simple solutions**
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/tanjimreza"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/tanjimbhai"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://fb.com/tanjimreza"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Run"/>
+  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Functions"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanjimreza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjimreza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=tanjimreza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjimreza&bg_color=1a1b27&color=be90f2&line=638fda&point=35bcbf&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+### 🎯 Current Focus
+- 👯 Open to collaborate on **Python | Django Projects **
+- 🎯 Goal: **Contribute to major open-source projects**
+---
+
+
+<div align="center">
+**💬 Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!**
+</div>
